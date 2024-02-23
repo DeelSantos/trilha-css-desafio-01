@@ -1,0 +1,15 @@
+/* Header */
+.banner {
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-size: 90%;
+    background-repeat: repeat;
+    
+    
+}
+
+.banner-content {
+    text-align: center;
+    padding: 6em;
+}
+
