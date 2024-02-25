@@ -4,12 +4,25 @@
     background-position: center;
     background-size: 90%;
     background-repeat: repeat;
-    
+    background-color: black;
+    text-align: center;
     
 }
 
 .banner-content {
-    text-align: center;
+    
     padding: 6em;
 }
 
+
+h1 {
+    background: linear-gradient(to top, #33A8DB, blue, darkblue );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+p {
+    color: white;
+    
+  
+}
